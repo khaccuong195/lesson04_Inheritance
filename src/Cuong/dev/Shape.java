@@ -1,5 +1,6 @@
 package Cuong.dev;
 
-public class Shape {
+public abstract class Shape {
 	private String Name;
+	public abstract double dientich();
 }
